@@ -5,8 +5,8 @@
   background-color: orange;
 }
 
-.highlight {
-  color: white;
-  font-weight: 900;
-  padding: 8px;
+.h-text {
+    padding: 8px;
+    color: white;
+    font-weight: 700;
 }

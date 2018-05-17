@@ -1,7 +1,6 @@
 # Interview Solution
 
-## Installation
-### Prerequisites
+## Prerequisites
 
 * node / npm installed on your system
 
